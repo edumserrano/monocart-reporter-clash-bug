@@ -1,5 +1,8 @@
 # monocart-reporter-clash-bug
 
+> [!IMPORTANT]
+> The bug reported by this repo has been fixed in version `2.9.18` of `monocart-reporter`.
+
 ## Description
 
 This repo was created to show the bug reported by this issue: [[Bug] monocart-reporter clashes with Playwright's built-in html reporter
