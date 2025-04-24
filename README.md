@@ -2,7 +2,8 @@
 
 ## Description
 
-This repo was created to show the bug reported by this issue: []().
+This repo was created to show the bug reported by this issue: [[Bug] monocart-reporter clashes with Playwright's built-in html reporter
+#174](https://github.com/cenfun/monocart-reporter/issues/174).
 
 ## Steps to replicate the bug
 
