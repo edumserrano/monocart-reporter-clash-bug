@@ -1,0 +1,1 @@
+# monocart-reporter-clash-bug
