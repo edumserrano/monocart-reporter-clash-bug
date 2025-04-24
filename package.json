@@ -1,0 +1,15 @@
+{
+  "name": "monocart-reporter-clash-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "test:ok": "npx playwright test --reporter=html,monocart-reporter",
+    "test:bug": "npx playwright test --reporter=monocart-reporter,html"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  },
+  "dependencies": {
+    "monocart-reporter": "^2.9.17"
+  }
+}
